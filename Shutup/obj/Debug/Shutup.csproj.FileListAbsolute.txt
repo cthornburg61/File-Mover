@@ -1,0 +1,13 @@
+c:\Projects\Test\Shutup\Shutup\bin\Debug\Shutup.exe.config
+c:\Projects\Test\Shutup\Shutup\bin\Debug\Shutup.exe
+c:\Projects\Test\Shutup\Shutup\bin\Debug\Shutup.pdb
+c:\Projects\Test\Shutup\Shutup\obj\Debug\Shutup.csprojResolveAssemblyReference.cache
+c:\Projects\Test\Shutup\Shutup\obj\Debug\Shutup.Form1.resources
+c:\Projects\Test\Shutup\Shutup\obj\Debug\Shutup.Properties.Resources.resources
+c:\Projects\Test\Shutup\Shutup\obj\Debug\Shutup.csproj.GenerateResource.Cache
+c:\Projects\Test\Shutup\Shutup\obj\Debug\Shutup.exe
+c:\Projects\Test\Shutup\Shutup\obj\Debug\Shutup.pdb
+c:\Projects\Test\Shutup\Shutup\bin\Debug\Shutup.exe.manifest
+c:\Projects\Test\Shutup\Shutup\bin\Debug\Shutup.application
+c:\Projects\Test\Shutup\Shutup\obj\Debug\Shutup.exe.manifest
+c:\Projects\Test\Shutup\Shutup\obj\Debug\Shutup.application
